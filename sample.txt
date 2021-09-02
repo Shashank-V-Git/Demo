@@ -6,3 +6,5 @@ Typescript
 SQL
 Git
 Spring Boot
+
+Final copy

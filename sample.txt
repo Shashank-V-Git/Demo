@@ -6,3 +6,9 @@ Typescript
 SQL
 Git
 Spring Boot
+
+Softwares:
+Spring Tool Suite
+Node Js
+Oracle SQL developer
+Ecllipse
